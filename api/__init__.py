@@ -12,6 +12,7 @@ from werkzeug.exceptions import NotFound,MethodNotAllowed
 
 
 
+# def create_app(config=config_dict['dev']):
 def create_app(config=config_dict['dev']):
     app =Flask(__name__)
     
