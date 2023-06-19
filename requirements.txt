@@ -47,7 +47,7 @@
 
 alembic
 aniso8601
-apispe
+apispec
 attrs
 blinker
 cachelib
